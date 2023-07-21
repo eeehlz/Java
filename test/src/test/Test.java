@@ -10,7 +10,7 @@ public static int sum(int n, int m) {
    return n + m;                           
 }                                          
 
-//main() 메소드에서 실행 시작
+//main() 메소드에서 실행 시작이다
 public static void main(String[] args) {
    int i = 20;
    int s;
