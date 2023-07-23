@@ -179,7 +179,7 @@ public class Calculator extends JFrame {
 				}
 			}
 		}
-		//계산값 prev 반환
+		//계산값 prev 반환s
 		return prev;
 	}
 	
