@@ -18,7 +18,7 @@ public class Calculator extends JFrame {
 	private JTextField inputSpace;
 	//계산식의 숫자를 담을 변수 num
 	private String num = "";
-	//계산 기능을 구현하기 위해 ArrayList에 숫자와 연산 기호를 하나씩 구분해 담음
+	//계산 기능을 구현하기 위해 ArrayList에 숫자와 연산 기호를 하나씩 구분해 담는다.
 	private ArrayList<String> equation = new ArrayList<String>();
 	
 	public Calculator() {
